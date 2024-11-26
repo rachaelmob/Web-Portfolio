@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+body {
+  color: #000;
+  background-color: #fff;
+  font-family: sans-serif, Arial, serif;
+}
+
+/*# sourceMappingURL=style.css.map */
