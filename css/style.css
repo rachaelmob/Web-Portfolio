@@ -11,4 +11,34 @@ body {
   font-family: sans-serif, Arial, serif;
 }
 
+a {
+  text-decoration: none;
+}
+
+section, .page {
+  height: 100vh;
+  padding: 1rem;
+}
+
+header .headnav {
+  display: flex;
+  padding: 1.4rem 4rem;
+  font-size: 1.2rem;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+header .headnav ul {
+  display: flex;
+  list-style: none;
+}
+header .headnav ul li {
+  padding: 0 0.4rem;
+}
+
+footer {
+  padding: 2rem;
+  background-color: #000;
+}
+
 /*# sourceMappingURL=style.css.map */

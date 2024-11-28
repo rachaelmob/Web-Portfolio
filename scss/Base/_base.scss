@@ -1,7 +1,6 @@
 //======= BASE =======//
 
 * {
-
     margin: 0;
     padding: 0;
     scroll-behavior: smooth;
@@ -12,4 +11,13 @@ body {
     color: #000;
     background-color: #fff;
     font-family: sans-serif, Arial, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+section, .page {
+    height: 100vh;
+    padding: 1rem;
 }
